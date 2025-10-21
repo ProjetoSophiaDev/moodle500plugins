@@ -58,3 +58,23 @@
 	path = moodle/lib/editor/tiny/plugins/preview
 	url = https://github.com/dthies/moodle-tiny_preview.git
 	branch = main
+[submodule "moodle/blocks/xp"]
+	path = moodle/blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = master
+[submodule "moodle/blocks/completion_progress"]
+	path = moodle/blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
+	branch = master
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://github.com/catalyst/moodle-block_dedication.git
+	branch = MOODLE_404_STABLE
+[submodule "moodle/blocks/sharing_cart"]
+	path = moodle/blocks/sharing_cart
+	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
+	branch = master
+[submodule "moodle/blocks/grade_me"]
+	path = moodle/blocks/grade_me
+	url = https://github.com/remotelearner/moodle-block_grade_me.git
+	branch = MOODLE_405_STABLE
