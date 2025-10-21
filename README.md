@@ -98,11 +98,11 @@ git submodule add -b MOODLE_405_STABLE https://github.com/academic-moodle-cooper
 ```
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+git submodule add -b MOODLE_500_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 - https://github.com/moodleworkplace/moodle-mod_coursecertificate
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+git submodule add -b MOODLE_500_STABLE https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 - https://github.com/mudrd8mz/moodle-mod_subcourse
 ```bash
@@ -110,7 +110,7 @@ git submodule add -b MOODLE_405_STABLE https://github.com/mudrd8mz/moodle-mod_su
 ```
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
 
 ### TINY
@@ -207,11 +207,15 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 ```bash
 git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
 ```
+- https://github.com/moodleou/moodle-report_customsql
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
+```
 
 ### AVAILABILITY
 - https://github.com/ewallah/moodle-availability_relativedate
 ```bash
-git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
+git submodule add -b MOODLE_500_STABLE https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
 - https://github.com/bdecentgmbh/moodle-availability_sectioncompleted
 ```bash
@@ -248,19 +252,19 @@ git submodule add -b MOODLE_405_STABLE https://github.com/catalyst/moodle-tool_s
 
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
-git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+git submodule add -b MOODLE_500_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### ADMIN
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
-git submodule add -b 4.x-4.5-branch https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
+git submodule add -b 5.0-branch https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
 
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+git submodule add -b MOODLE_500_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 
 ### ENROL
@@ -274,11 +278,11 @@ git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.
 
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
-git submodule add -b MOODLE_405_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+git submodule add -b MOODLE_500_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b moodle44 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b moodle50 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
 - https://gitlab.com/drlikm/format_etask
@@ -288,7 +292,7 @@ git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_eta
 
 - https://github.com/jrangelardila/moodle-format_buttons
 ```bash
-git submodule add -b 4.x https://github.com/jrangelardila/moodle-format_buttons.git course/format/buttons
+git submodule add -b 5.x https://github.com/jrangelardila/moodle-format_buttons.git course/format/buttons
 ```
 
 ### USER
@@ -299,9 +303,9 @@ git submodule add -b main https://gitlab.com/adapta/moodle-profilefield_brasiluf
 
 ### Theme
 
-- https://github.com/ProjetoSophiaDev/academi
+- https://github.com/ProjetoSophiaDev/academi5
 ```bash
-git submodule add -b main https://github.com/ProjetoSophiaDev/academi.git theme/academi
+git submodule add -b main https://github.com/ProjetoSophiaDev/academi5.git theme/academi
 ```
 ## Git commands
 
