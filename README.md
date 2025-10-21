@@ -328,20 +328,13 @@ git submodule add -b main https://gitlab.com/adapta/moodle-profilefield_brasiluf
 ```bash
 git submodule add -b main https://github.com/ProjetoSophiaDev/academi5.git theme/academi
 ```
-## Git commands
 
+## Removed from core
+- https://github.com/moodlehq/moodle-mod_chat
 ```bash
-git submodule add -b branch https://urltoplugin.git path/to/submodule
-git add .
-git commit -m "Some update info here..."
-git push
+git submodule add -b main https://github.com/moodlehq/moodle-mod_chat.git mod/chat
 ```
-
+- https://github.com/moodlehq/moodle-mod_survey
 ```bash
-SUBMPATH="moodle/path/to/submodule"
-git submodule deinit $SUBMPATH
-git rm $SUBMPATH
-git commit -m "Removed submodule $SUBMPATH"
-rm -rf .git/modules/$SUBMPATH
-git push
+git submodule add -b main https://github.com/moodlehq/moodle-mod_survey.git mod/survey
 ```
