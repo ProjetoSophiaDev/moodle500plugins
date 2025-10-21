@@ -178,3 +178,27 @@
 	path = moodle/enrol/autoenrol
 	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
 	branch = master
+[submodule "moodle/local/aws"]
+	path = moodle/local/aws
+	url = https://github.com/catalyst/moodle-local_aws.git
+	branch = master
+[submodule "moodle/admin/tool/objectfs"]
+	path = moodle/admin/tool/objectfs
+	url = https://github.com/catalyst/moodle-tool_objectfs.git
+	branch = MOODLE_404_STABLE
+[submodule "moodle/admin/tool/s3logs"]
+	path = moodle/admin/tool/s3logs
+	url = https://github.com/catalyst/moodle-tool_s3logs.git
+	branch = MOODLE_405_STABLE
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = 5.0-branch
+[submodule "moodle/admin/tool/certificate"]
+	path = moodle/admin/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
+	branch = MOODLE_500_STABLE
+[submodule "moodle/user/profile/field/brasilufmunicipio"]
+	path = moodle/user/profile/field/brasilufmunicipio
+	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
+	branch = main
