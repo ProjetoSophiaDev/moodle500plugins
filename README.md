@@ -283,6 +283,11 @@ git submodule add -b 5.0-branch https://github.com/Syxton/moodle-tool_coursearch
 git submodule add -b MOODLE_500_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 
+- https://github.com/moodle-an-hochschulen/moodle-tool_opcache
+```bash
+git submodule add -b MOODLE_500_STABLE https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git admin/tool/opcache
+```
+
 ### ENROL
 
 - https://github.com/bobopinna/moodle-enrol_autoenrol
