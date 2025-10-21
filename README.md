@@ -66,7 +66,7 @@ cd moodle
 ### MOD
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
-git submodule add -b MOODLE_405_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+git submodule add -b MOODLE_500_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
 - https://github.com/ndunand/moodle-mod_choicegroup
 ```bash
