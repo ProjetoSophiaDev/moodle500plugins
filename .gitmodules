@@ -222,3 +222,7 @@
 	path = moodle/theme/academi
 	url = https://github.com/ProjetoSophiaDev/academi5.git
 	branch = main
+[submodule "moodle/admin/tool/opcache"]
+	path = moodle/admin/tool/opcache
+	url = https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git
+	branch = MOODLE_500_STABLE
