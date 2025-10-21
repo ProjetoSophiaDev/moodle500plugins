@@ -1,12 +1,12 @@
-# moodle405plugins
-- https://moodledev.io/general/releases/4.5
+# moodle500plugins
+- https://moodledev.io/general/releases/5.0
 
 ## Moodle Update
 ```bash
 export MDLREPO="https://github.com/moodle/moodle.git"
-export MDLBRANCH="MOODLE_405_STABLE"  # GIT Branch for moodle core
+export MDLBRANCH="MOODLE_500_STABLE"  # GIT Branch for moodle core
 export MDLCORE="mdlcore" # Temp folder for moodle core
-export PLGREPO="https://github.com/ProjetoSophiaDev/moodle405plugins.git"
+export PLGREPO="https://github.com/ProjetoSophiaDev/moodle500plugins.git"
 export PLGBRANCH="main" # GIT Branch for moodle plugins
 export MDLPLGS="mdlplugins" # Temp folder for moodle plugins
 # Moodle software (For example, everything in server/htdocs/moodle)
