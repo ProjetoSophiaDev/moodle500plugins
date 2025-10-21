@@ -191,6 +191,22 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.gi
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
 
+- https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git question/behaviour/dfexplicitvaildate
+```
+- https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git question/behaviour/dfcbmexplicitvaildate
+```
+- https://github.com/maths/moodle-qbehaviour_adaptivemultipart
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git question/behaviour/adaptivemultipart
+```		
+- https://github.com/maths/moodle-qtype_stack
+```bash
+git submodule add -b master https://github.com/maths/moodle-qtype_stack.git question/type/stack
+``` 
 
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
