@@ -202,3 +202,23 @@
 	path = moodle/user/profile/field/brasilufmunicipio
 	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
 	branch = main
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_500_STABLE
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle50
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = FORMAT_ETASK_24_STABLE
+[submodule "moodle/course/format/buttons"]
+	path = moodle/course/format/buttons
+	url = https://github.com/jrangelardila/moodle-format_buttons.git
+	branch = 5.x
+[submodule "moodle/theme/academi"]
+	path = moodle/theme/academi
+	url = https://github.com/ProjetoSophiaDev/academi5.git
+	branch = main
