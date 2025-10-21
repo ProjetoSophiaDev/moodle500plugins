@@ -154,3 +154,27 @@
 	path = moodle/report/customsql
 	url = https://github.com/moodleou/moodle-report_customsql.git
 	branch = main
+[submodule "moodle/availability/condition/relativedate"]
+	path = moodle/availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = MOODLE_500_STABLE
+[submodule "moodle/availability/condition/sectioncompleted"]
+	path = moodle/availability/condition/sectioncompleted
+	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
+	branch = main
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = main
+[submodule "moodle/availability/condition/coursecompleted"]
+	path = moodle/availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+	branch = main
+[submodule "moodle/local/sandbox"]
+	path = moodle/local/sandbox
+	url = https://github.com/moodleuulm/moodle-local_sandbox.git
+	branch = MOODLE_500_STABLE
+[submodule "moodle/enrol/autoenrol"]
+	path = moodle/enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+	branch = master
