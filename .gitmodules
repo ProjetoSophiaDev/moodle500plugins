@@ -46,3 +46,15 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
+[submodule "moodle/lib/editor/tiny/plugins/cloze"]
+	path = moodle/lib/editor/tiny/plugins/cloze
+	url = https://github.com/srobotta/moodle-tiny_cloze.git
+	branch = main
+[submodule "moodle/lib/editor/tiny/plugins/fontcolor"]
+	path = moodle/lib/editor/tiny/plugins/fontcolor
+	url = https://github.com/bfh/moodle-tiny_fontcolor.git
+	branch = main
+[submodule "moodle/lib/editor/tiny/plugins/preview"]
+	path = moodle/lib/editor/tiny/plugins/preview
+	url = https://github.com/dthies/moodle-tiny_preview.git
+	branch = main
