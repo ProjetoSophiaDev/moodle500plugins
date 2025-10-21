@@ -226,3 +226,11 @@
 	path = moodle/admin/tool/opcache
 	url = https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git
 	branch = MOODLE_500_STABLE
+[submodule "moodle/mod/chat"]
+	path = moodle/mod/chat
+	url = https://github.com/moodlehq/moodle-mod_chat.git
+	branch = main
+[submodule "moodle/mod/survey"]
+	path = moodle/mod/survey
+	url = https://github.com/moodlehq/moodle-mod_survey.git
+	branch = main
