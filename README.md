@@ -1,6 +1,7 @@
 # moodle500plugins
 - https://moodledev.io/general/releases/5.0
 
+[![Update Submodules](https://github.com/ProjetoSophiaDev/moodle500plugins/actions/workflows/update-submodules.yml/badge.svg)](https://github.com/ProjetoSophiaDev/moodle500plugins/actions/workflows/update-submodules.yml)
 ## Moodle Update
 ```bash
 export MDLREPO="https://github.com/moodle/moodle.git"
